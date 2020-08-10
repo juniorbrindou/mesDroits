@@ -2,7 +2,6 @@
 *.mp3
 /admin
 /config
-/css
 /doc*
 /i*
 /fonts

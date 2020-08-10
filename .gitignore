@@ -1,0 +1,13 @@
+
+*.mp3
+/admin
+/config
+/css
+/doc*
+/i*
+/t*
+/js
+/fonts
+/video
+/audios
+/*.php

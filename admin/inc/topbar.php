@@ -10,7 +10,7 @@
 						</li>
 						<li class="nav-item">
 							<a href="index.html" class="navbar-brand nav-link">
-								<img alt="branding logo" src="app-assets/images/logo/robust-logo-light.png" data-expand="app-assets/images/logo/robust-logo-light.png" data-collapse="app-assets/images/logo/robust-logo-small.png" class="brand-logo"></a>
+								<img alt="branding logo" src="app-assets/images/logo/robust-logo-light.png" data-expand="../images/logo-light.png" data-collapse="app-assets/images/logo/robust-logo-small.png" class="brand-logo"></a>
 						</li>
 						<li class="nav-item hidden-md-up float-xs-right">
 							<a data-toggle="collapse" data-target="#navbar-mobile" class="nav-link open-navbar-container"><i class="icon-ellipsis pe-2x icon-icon-rotate-right-right"></i></a>
